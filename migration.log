@@ -1,0 +1,15 @@
+2024-11-27 14:32:59,043 - ERROR - Erreur pendant la migration du lot à l'offset 0: 'name'
+2024-11-27 14:32:59,043 - INFO - Aucun document migré pour ce lot.
+2024-11-27 14:32:59,043 - INFO - Migration terminée avec succès.
+2024-11-27 14:35:10,032 - ERROR - Erreur pendant la migration du lot à l'offset 0: 'name'
+2024-11-27 14:35:10,032 - INFO - Aucun document migré pour ce lot.
+2024-11-27 14:35:10,032 - INFO - Migration terminée avec succès.
+2024-11-27 14:35:27,012 - ERROR - Erreur pendant la migration du lot à l'offset 0: 'name'
+2024-11-27 14:35:27,012 - INFO - Aucun document migré pour ce lot.
+2024-11-27 14:35:27,013 - INFO - Migration terminée avec succès.
+2024-11-27 14:37:48,021 - ERROR - Erreur pendant la migration du lot à l'offset 0: 'name'
+2024-11-27 14:37:48,021 - INFO - Aucun document migré pour ce lot.
+2024-11-27 14:37:48,021 - INFO - Migration terminée avec succès.
+2024-11-27 14:38:19,396 - ERROR - Erreur pendant la migration du lot à l'offset 0: 'name'
+2024-11-27 14:38:19,398 - INFO - Aucun document migré pour ce lot.
+2024-11-27 14:38:19,398 - INFO - Migration terminée avec succès.
